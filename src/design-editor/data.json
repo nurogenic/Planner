@@ -1,0 +1,12 @@
+{
+    "elements": {
+        "text": {
+            "$label": "Text",
+            "$type": "text"
+        },
+        "image": {
+            "$label": "Image",
+            "$type": "image"
+        }
+    }
+}
